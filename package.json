@@ -1,0 +1,23 @@
+{
+  "name": "amazon-clone",
+  "version": "1.0.0",
+  "description": "Amazon clone in Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharad-ghimire/Amazon-clone-Node.js.git"
+  },
+  "author": "Sharad Ghimire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharad-ghimire/Amazon-clone-Node.js/issues"
+  },
+  "homepage": "https://github.com/sharad-ghimire/Amazon-clone-Node.js#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
+}
